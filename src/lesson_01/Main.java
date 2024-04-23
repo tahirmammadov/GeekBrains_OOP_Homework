@@ -1,6 +1,6 @@
 // Lesson 1. OOP principles: Encapsulation, inheritance, polymorphism
 
-package lesson1;
+package lesson_01;
 
 import java.util.*;
 
